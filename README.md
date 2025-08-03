@@ -8,7 +8,7 @@ python calculate_ct.py
 python ca_similarity.py
 ```
 
-### # run 
+### # Distillation and Training 
 ```bash
 python main_small.py --dataset=medsynfea --cluster=umap_uni
 ```
